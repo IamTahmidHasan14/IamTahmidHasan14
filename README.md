@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Tahmid</h1>
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamTahmidHasan14&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTahmidHasan14&layout=compact)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamTahmidHasan14&show_icons=true&locale=en)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=IamTahmidHasan14&show_icons=true&locale=en&layout=compact)
 
 - 📫 How to reach me **tahmidahmad007@gmail.com**
 
