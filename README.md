@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tahmid</h1>
+<h1 align="center">Hi 👋, I am Tahmid</h1>
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamTahmidHasan14&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTahmidHasan14&layout=compact)
